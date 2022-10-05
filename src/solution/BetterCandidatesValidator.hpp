@@ -32,7 +32,7 @@ public:
             return Exist::False;
         }
 
-        std::swap(*it, req);
+        *it = std::move(req);
         return Exist::True;
     }
 
