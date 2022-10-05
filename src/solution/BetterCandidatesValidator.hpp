@@ -4,11 +4,6 @@
 #include <list>
 #include <typeinfo>
 #include "Requirement.hpp"
-#include "BetterCandidatesValidator.hpp"
-#include "CooperationNeeded.hpp"
-#include "CppRequirements.hpp"
-#include "CRequirements.hpp"
-#include "WageRequirements.hpp"
 
 class Candidate;
 

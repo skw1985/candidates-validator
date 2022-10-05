@@ -3,6 +3,11 @@
 
 #include "Application.hpp"
 #include "Candidate.hpp"
+#include "BetterCandidatesValidator.hpp"
+#include "CooperationNeeded.hpp"
+#include "CppRequirements.hpp"
+#include "CRequirements.hpp"
+#include "WageRequirements.hpp"
 
 int main()
 {
